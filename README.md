@@ -14,13 +14,13 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
 - **C#**
 
 ## Models
-- **JobRequest**
+  - #JobRequest
 - Title (string): The title of the job posting.
 - Description (string): Detailed description of the job.
 - Keywords (List<string>): Keywords associated with the job.
 - Platform (SocialMediaPlatform): Target social media platform, defined as an enum.
   
-- **PlatformInfo**
+  - #PlatformInfo
 - Name (string): Name of the platform.
 - CharacterLimit (int): Maximum number of characters allowed in the post for this platform.
 

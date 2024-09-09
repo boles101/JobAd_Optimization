@@ -21,8 +21,8 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
     - Platform (SocialMediaPlatform): Target social media platform, defined as an enum.
       
 - **PlatformInfo**
-    - Name (string): Name of the platform.
-    - CharacterLimit (int): Maximum number of characters allowed in the post for this platform.
+    - Name (string): Name of the platform. Default Value is Twitter.
+    - CharacterLimit (int): Maximum number of characters allowed in the post for this platform. 
 
 ## API Endpoints
   POST /api/optimize-ad

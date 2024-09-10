@@ -1,0 +1,32 @@
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\appsettings.Development.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\appsettings.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\NET Developer Intern API Coding Assessment.exe
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\NET Developer Intern API Coding Assessment.deps.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\NET Developer Intern API Coding Assessment.runtimeconfig.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\NET Developer Intern API Coding Assessment.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\NET Developer Intern API Coding Assessment.pdb
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.csproj.AssemblyReference.cache
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.AssemblyInfoInputs.cache
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.AssemblyInfo.cs
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.csproj.CoreCompileInputs.cache
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.MvcApplicationPartsAssemblyInfo.cs
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.MvcApplicationPartsAssemblyInfo.cache
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets.build.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets.development.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets\msbuild.NET Developer Intern API Coding Assessment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets\msbuild.build.NET Developer Intern API Coding Assessment.props
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NET Developer Intern API Coding Assessment.props
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NET Developer Intern API Coding Assessment.props
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\scopedcss\bundle\NET Developer Intern API Coding Assessment.styles.css
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Deve.32D47850.Up2Date
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\refint\NET Developer Intern API Coding Assessment.dll
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.pdb
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\NET Developer Intern API Coding Assessment.genruntimeconfig.cache
+D:\Boles\School\WonderKind Task\NET Developer Intern API Coding Assessment\NET Developer Intern API Coding Assessment\obj\Debug\net6.0\ref\NET Developer Intern API Coding Assessment.dll

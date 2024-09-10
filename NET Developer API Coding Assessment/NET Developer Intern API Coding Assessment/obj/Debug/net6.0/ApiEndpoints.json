@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.JobAdController",
+    "Method": "GetPlatforms",
+    "RelativePath": "api/JobAd/Get-All-Platforms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.JobAdController",
+    "Method": "OptimizedAd",
+    "RelativePath": "api/JobAd/Optimize-Ad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobRequest",
+        "Type": "NET_Developer_Intern_API_Coding_Assessment.Model.JobRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

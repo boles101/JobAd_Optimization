@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NET Developer Intern API Coding Assessment.props" />
+</Project>

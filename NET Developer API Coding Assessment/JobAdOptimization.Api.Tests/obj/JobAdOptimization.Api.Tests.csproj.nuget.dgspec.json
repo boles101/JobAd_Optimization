@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
+        "projectName": "JobAdOptimization.Api.Tests",
+        "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
+        "packagesPath": "C:\\Users\\boles\\.nuget\\packages\\",
+        "outputPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
+                "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
+        "projectName": "NET Developer Intern API Coding Assessment",
+        "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
+        "packagesPath": "C:\\Users\\boles\\.nuget\\packages\\",
+        "outputPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

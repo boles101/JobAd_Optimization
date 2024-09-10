@@ -26,7 +26,7 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
     - CharacterLimit (int): Maximum number of characters allowed in the post for this platform. 
 
 ## API Endpoints
-  POST /api/optimize-ad
+  **POST /api/optimize-ad**
     - Optimizes job advertisements based on the platform's character limit.
     - Request Body: {
       "title": "Senior Developer Needed",
@@ -35,7 +35,7 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
       "platform": "Twitter"
 
 ## Methodolgies and Principles Used
- Overview of the design principles and methodologies applied:
+ **Overview of the design principles and methodologies applied:**
     - SOLID Principles
     - MVC Architecture
     - RESTful API Design

@@ -33,6 +33,11 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
       "description": "We are looking for a senior developer to join our fast-growing tech company...",
       "keywords": ["tech", "developer", "senior", "full-time"],
       "platform": "Twitter"
+      
+- **GET/api/JobAd/Get-All-Platforms**
+   - Get all platforms regitsterd in the enum in the JobRequest Class. Character Limit must be
+     initialized in the PlatformService Class => GetCharacterLimit other wise will throw limit not specified..  
+      
 
 ## Methodolgies and Principles Used
  - **Overview of the design principles and methodologies applied:**
@@ -43,6 +48,6 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
     - Error Handling and Logging
 
 
-}
+
 
 

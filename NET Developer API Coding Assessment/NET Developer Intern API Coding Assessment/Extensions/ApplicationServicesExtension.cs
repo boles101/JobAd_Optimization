@@ -17,9 +17,11 @@ namespace NET_Developer_Intern_API_Coding_Assessment.Extensions
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
-            // Service registery in the dependency injecttion Container...
+            // Service registery in the dependency injecttion Container...\
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IAdOtimizer, AdOptimizer>(); 
             services.AddScoped<IPlatformServices,PlatformServices>();
+
 
             return services;
         }

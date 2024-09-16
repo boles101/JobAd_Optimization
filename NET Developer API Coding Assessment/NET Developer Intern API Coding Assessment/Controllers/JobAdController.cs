@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NET_Developer_Intern_API_Coding_Assessment.Interface;
 using NET_Developer_Intern_API_Coding_Assessment.Interfaces;
 using NET_Developer_Intern_API_Coding_Assessment.Model;
+using NET_Developer_Intern_API_Coding_Assessment.Model.Dtos;
 
 namespace NET_Developer_Intern_API_Coding_Assessment.Controllers
 {
@@ -10,22 +12,26 @@ namespace NET_Developer_Intern_API_Coding_Assessment.Controllers
     {
         private readonly IAdOtimizer _adOtimizer; // Service Injection in place..
         private readonly IPlatformServices _platformServices;
+        private readonly IMapper _mapper;
 
-        public JobAdController(IAdOtimizer adOtimizer ,IPlatformServices platformServices)
+        public JobAdController(IAdOtimizer adOtimizer 
+                              ,IPlatformServices platformServices
+                              ,IMapper mapper)
         {
             _adOtimizer = adOtimizer;
             _platformServices = platformServices;
-
+            _mapper = mapper;
         }
 
         [HttpPost("Optimize-Ad")]
-        public IActionResult OptimizedAd(JobRequest jobRequest)
+        public IActionResult OptimizedAd(JobRequestDto jobRequest)
         {
             if(!ModelState.IsValid)
                 return BadRequest(ModelState);
             try
             {
-                string OptimizedContent = _adOtimizer.Optimize(jobRequest);
+                var mappedRequest = _mapper.Map<JobRequest>(jobRequest);
+                string OptimizedContent = _adOtimizer.Optimize(mappedRequest);
                 var response = new OptimizedAdResponse(OptimizedContent);
                 return Ok(response);
 
@@ -36,10 +42,6 @@ namespace NET_Developer_Intern_API_Coding_Assessment.Controllers
             }
         }
 
-        [HttpGet("Get-All-Platforms")]
-        public IActionResult GetPlatforms()
-        {
-            return Ok(_platformServices.GetPlatformInfo());
-        }
+        
     }
 }

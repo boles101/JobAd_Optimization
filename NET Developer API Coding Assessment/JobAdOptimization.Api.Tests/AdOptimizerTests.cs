@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Logging;
 using Moq;
+using NET_Developer_Intern_API_Coding_Assessment.Data;
 using NET_Developer_Intern_API_Coding_Assessment.Model;
 using NET_Developer_Intern_API_Coding_Assessment.Services;
 
@@ -8,11 +9,14 @@ namespace JobAdOptimization.Api.Tests
     public class AdOptimizerTests
     {
         private readonly AdOptimizer _optimizer;
+        private readonly Mock<AssesmentDbContext> _dbContextMock;
         private readonly Mock<ILogger<AdOptimizer>> _loggerMock = new Mock<ILogger<AdOptimizer>>();
 
         public AdOptimizerTests()
         {
             _optimizer = new AdOptimizer(_loggerMock.Object);
+            _dbContextMock = new Mock<AssesmentDbContext>();
+
         }
 
 

@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.JobAdController",
-    "Method": "GetPlatforms",
-    "RelativePath": "api/JobAd/Get-All-Platforms",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.JobAdController",
     "Method": "OptimizedAd",
     "RelativePath": "api/JobAd/Optimize-Ad",
     "HttpMethod": "POST",
@@ -19,10 +9,36 @@
     "Parameters": [
       {
         "Name": "jobRequest",
-        "Type": "NET_Developer_Intern_API_Coding_Assessment.Model.JobRequest",
+        "Type": "NET_Developer_Intern_API_Coding_Assessment.Model.Dtos.JobRequestDto",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.PlatformInfoController",
+    "Method": "AddPlatform",
+    "RelativePath": "api/PlatformInfo/Add-Platform",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "platformDto",
+        "Type": "NET_Developer_Intern_API_Coding_Assessment.Model.Dtos.PlatformInfoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NET_Developer_Intern_API_Coding_Assessment.Controllers.PlatformInfoController",
+    "Method": "GetPlatforms",
+    "RelativePath": "api/PlatformInfo/Get-All-Platforms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {}
+    "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {
+    "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
+        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
         "projectName": "JobAdOptimization.Api.Tests",
-        "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
+        "projectPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\JobAdOptimization.Api.Tests.csproj",
         "packagesPath": "C:\\Users\\boles\\.nuget\\packages\\",
-        "outputPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\obj\\",
+        "outputPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\JobAdOptimization.Api.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
-                "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj"
+              "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
+                "projectPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
+    "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
+        "projectUniqueName": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
         "projectName": "NET Developer Intern API Coding Assessment",
-        "projectPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
+        "projectPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj",
         "packagesPath": "C:\\Users\\boles\\.nuget\\packages\\",
-        "outputPath": "D:\\Boles\\School\\WonderKind Task\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\obj\\",
+        "outputPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,6 +133,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

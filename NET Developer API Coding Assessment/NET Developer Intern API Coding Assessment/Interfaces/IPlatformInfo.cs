@@ -4,6 +4,9 @@ namespace NET_Developer_Intern_API_Coding_Assessment.Interfaces
 {
     public interface IPlatformServices
     {
-        List<PlatformInfo> GetPlatformInfo();
+
+        public bool AddPlatform(PlatformInfo platform);
+        public ICollection<PlatformInfo> GetPlatformInfo();
+        public bool Save();
     }
 }

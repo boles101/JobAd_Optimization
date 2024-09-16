@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|d:\\boles\\school\\wonderkind task clone\\jobad_optimization\\net developer api coding assessment\\net developer intern api coding assessment\\controllers\\jobadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|solutionrelative:net developer intern api coding assessment\\controllers\\jobadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|d:\\boles\\school\\wonderkind task clone\\jobad_optimization\\net developer api coding assessment\\net developer intern api coding assessment\\model\\dtos\\platforminfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|solutionrelative:net developer intern api coding assessment\\model\\dtos\\platforminfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|d:\\boles\\school\\wonderkind task clone\\jobad_optimization\\net developer api coding assessment\\net developer intern api coding assessment\\model\\dtos\\jobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|solutionrelative:net developer intern api coding assessment\\model\\dtos\\jobrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|d:\\boles\\school\\wonderkind task clone\\jobad_optimization\\net developer api coding assessment\\net developer intern api coding assessment\\model\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED051CB7-EC59-4C7A-A3ED-0484B6631B51}|NET Developer Intern API Coding Assessment\\NET Developer Intern API Coding Assessment.csproj|solutionrelative:net developer intern api coding assessment\\model\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobRequest.cs",
+              "DocumentMoniker": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\JobRequest.cs",
+              "RelativeDocumentMoniker": "NET Developer Intern API Coding Assessment\\Model\\JobRequest.cs",
+              "ToolTip": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\JobRequest.cs",
+              "RelativeToolTip": "NET Developer Intern API Coding Assessment\\Model\\JobRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:32:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobRequestDto.cs",
+              "DocumentMoniker": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\Dtos\\JobRequestDto.cs",
+              "RelativeDocumentMoniker": "NET Developer Intern API Coding Assessment\\Model\\Dtos\\JobRequestDto.cs",
+              "ToolTip": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\Dtos\\JobRequestDto.cs",
+              "RelativeToolTip": "NET Developer Intern API Coding Assessment\\Model\\Dtos\\JobRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:19:54.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformInfoDto.cs",
+              "DocumentMoniker": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\Dtos\\PlatformInfoDto.cs",
+              "RelativeDocumentMoniker": "NET Developer Intern API Coding Assessment\\Model\\Dtos\\PlatformInfoDto.cs",
+              "ToolTip": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Model\\Dtos\\PlatformInfoDto.cs",
+              "RelativeToolTip": "NET Developer Intern API Coding Assessment\\Model\\Dtos\\PlatformInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:18:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobAdController.cs",
+              "DocumentMoniker": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Controllers\\JobAdController.cs",
+              "RelativeDocumentMoniker": "NET Developer Intern API Coding Assessment\\Controllers\\JobAdController.cs",
+              "ToolTip": "D:\\Boles\\School\\WonderKind Task Clone\\JobAd_Optimization\\NET Developer API Coding Assessment\\NET Developer Intern API Coding Assessment\\Controllers\\JobAdController.cs",
+              "RelativeToolTip": "NET Developer Intern API Coding Assessment\\Controllers\\JobAdController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:57:31.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

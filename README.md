@@ -68,7 +68,7 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
 ## How to install
 - Clone project to your local machine.
 - Open the project sln in visual studio.
-- From the tools menue ->Nuget Package Manger -> open Packadge Manger Console.
+- From the tools menu ->Nuget Package Manger -> open Packadge Manger Console.
 - Type command "update-database" to initialize the lates migration to your database.
 - If build failed check the appsettings.json file and change the server to your machine server (can be found in sql starter).
     

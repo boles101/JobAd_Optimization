@@ -12,6 +12,7 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
 ## Technologies Used
 - **[ASP.NET Core 6.0](https://dotnet.microsoft.com/download/dotnet/6.0)**
 - **C#**
+- **Xunit**
 
 ## Models
 - **JobRequest**
@@ -25,13 +26,28 @@ This ASP.NET Core API optimizes job advertisements for different social media pl
     - CharacterLimit (int): Maximum number of characters allowed in the post for this platform. 
 
 ## API Endpoints
-  POST /api/optimize-ad
-- Optimizes job advertisements based on the platform's character limit.
-- Request Body: {
-  "title": "Senior Developer Needed",
-  "description": "We are looking for a senior developer to join our fast-growing tech company...",
-  "keywords": ["tech", "developer", "senior", "full-time"],
-  "platform": "Twitter"
-}
+- **POST /api/optimize-ad**
+    - Optimizes job advertisements based on the platform's character limit.
+    - Request Body: {
+      "title": "Senior Developer Needed",
+      "description": "We are looking for a senior developer to join our fast-growing tech company...",
+      "keywords": ["tech", "developer", "senior", "full-time"],
+      "platform": "Twitter"
+      
+- **GET/api/JobAd/Get-All-Platforms**
+   - Get all platforms regitsterd in the enum in the JobRequest Class. Character Limit must be
+     initialized in the PlatformService Class => GetCharacterLimit other wise will throw limit not specified..  
+      
+
+## Methodolgies and Principles Used
+ - **Overview of the design principles and methodologies applied:**
+    - SOLID Principles
+    - MVC Architecture
+    - RESTful API Design
+    - Dependency Injection
+    - Error Handling and Logging
+
+
+
 
 
